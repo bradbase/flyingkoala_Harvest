@@ -1,0 +1,3 @@
+FlyingKoala >= 0.0.9b0
+python-harvest-apiv2 >= 1.0.1
+openpyxl >= 3.0.3
